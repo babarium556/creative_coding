@@ -1,0 +1,15 @@
+d1$sound"[~bd]*8"
+
+d2$sound"sn*4"
+
+d3$sound"hh*3"
+
+d4$sound"arpy*8" # up "0 2 4 5 7 9 11 12"
+
+d5 $ sound "arpy*8" # up "4 5 7 9 11 12 0 2 "
+
+d6$sound"[~cp]*4"# gain 0.8
+
+d7$ sound"*4" 
+
+hush
